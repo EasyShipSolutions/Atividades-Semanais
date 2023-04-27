@@ -1,0 +1,76 @@
+.sobre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem{
+    position: absolute;
+    width: 582px;
+    height: 582px;
+    left: 123px;
+    top: 886px;
+}
+
+.titulo{
+    position: absolute;
+    width: 408px;
+    height: 44px;
+    left: 735px;
+    top: 886px;
+    text-align: center;
+}
+
+.paragrafos p:nth-child(1){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 970px;
+}
+
+.paragrafos p:nth-child(2){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1013px;
+}
+
+.paragrafos p:nth-child(3){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1056px;
+}
+
+.paragrafos p:nth-child(4){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1101px;
+}
+
+.paragrafos p:nth-child(5){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1148px;
+}
+
+.paragrafos p:nth-child(6){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1195px;
+}
+
+.paragrafos p:nth-child(7){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1259px;
+}
