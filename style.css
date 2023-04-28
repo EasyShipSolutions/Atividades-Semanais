@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0px;;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    text-size-adjust: 20px;
+    text-decoration-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    
+}
+
+.revisao{
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 50px;
+    top: 1842px;
+}
+
+.trocadeoleo{
+    position: absolute;
+    width: 378px;
+    height: 300px;
+    left: 450px;
+    top: 1842px;
+
+}
+
+.eletrica{
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 900px;
+    top: 1842px;
+}
+
+.alinhamento{
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 50px;
+    top: 2195px;
+}
+
+.revitaliza{
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 450px;
+    top: 2195px;
+}
+
+.escapamento{
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 900px;
+    top: 2195px;
+}
+
+.revisao img{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 00px;
+    top: -70px;
+}
+
+.oleo img{
+    position: absolute;
+    width: 62spx;
+    height: 62px;
+    left: 50px;
+    top: 70px;
+}
