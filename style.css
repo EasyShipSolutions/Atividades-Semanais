@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #626868;
+}
+
+
+
+.produto h1 {
+    text-align: center;
+    text-size-adjust: 30px;
+    text-decoration-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* teste */
+}
+
+
+.revisao {
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 50px;
+    top: 200px;
+}
+
+.trocadeoleo {
+    
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 300px;
+    left: 450px;
+    top: 200px;
+
+}
+
+.eletrica {
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 900px;
+    top: 180px;
+}
+
+.alinhamento {
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 50px;
+    top: 600px;
+}
+
+.revitaliza {
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 450px;
+    top: 600px;
+}
+
+.escapamento {
+    justify-content: space-between;
+    position: absolute;
+    width: 378px;
+    height: 330px;
+    left: 900px;
+    top: 600px;
+}
+
+.revisao img {
+    justify-content: space-between;
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 0;
+    top: -70px;
+}
+
+.oleo img {
+    justify-content: space-between;
+    position: absolute;
+    width: 62spx;
+    height: 62px;
+    left: 50px;
+    top: 70px;
+}
+
+.style{
+    width: 120px;
+    height: 120px;
+}
+
