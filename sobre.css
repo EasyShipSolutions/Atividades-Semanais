@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+    background-color: #626868;
+}
+
+.imagem img{
+    position: absolute;
+    width: 595px;
+    height: 595px;
+    left: 100px;
+    top: 870px;
+}
+
+.titulo{
+    position: absolute;
+    width: 408px;
+    height: 44px;
+    left: 735px;
+    top: 886px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.paragrafos p:nth-child(1){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 970px;
+}
+
+.paragrafos p:nth-child(2){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1017px;
+}
+
+.paragrafos p:nth-child(3){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1087px;
+}
+
+.paragrafos p:nth-child(4){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1155px;
+}
+
+.paragrafos p:nth-child(5){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1221px;
+}
+
+.paragrafos p:nth-child(6){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1280px;
+}
+
+.paragrafos p:nth-child(7){
+    position: absolute;
+    width: 582px;
+    height: 20px;
+    left: 735px;
+    top: 1359px;
+}
+
