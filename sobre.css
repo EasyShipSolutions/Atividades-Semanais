@@ -1,13 +1,18 @@
-.sobre{
-    font-family: Arial, Helvetica, sans-serif;
+*{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+    background-color: #626868;
 }
 
-.imagem{
+.imagem img{
     position: absolute;
-    width: 582px;
-    height: 582px;
-    left: 123px;
-    top: 886px;
+    width: 595px;
+    height: 595px;
+    left: 100px;
+    top: 870px;
 }
 
 .titulo{
@@ -16,8 +21,10 @@
     height: 44px;
     left: 735px;
     top: 886px;
+    font-weight: bold;
     text-align: center;
 }
+
 
 .paragrafos p:nth-child(1){
     position: absolute;
@@ -32,7 +39,7 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1013px;
+    top: 1017px;
 }
 
 .paragrafos p:nth-child(3){
@@ -40,7 +47,7 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1056px;
+    top: 1087px;
 }
 
 .paragrafos p:nth-child(4){
@@ -48,7 +55,7 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1101px;
+    top: 1155px;
 }
 
 .paragrafos p:nth-child(5){
@@ -56,7 +63,7 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1148px;
+    top: 1221px;
 }
 
 .paragrafos p:nth-child(6){
@@ -64,7 +71,7 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1195px;
+    top: 1280px;
 }
 
 .paragrafos p:nth-child(7){
@@ -72,5 +79,6 @@
     width: 582px;
     height: 20px;
     left: 735px;
-    top: 1259px;
+    top: 1359px;
 }
+
